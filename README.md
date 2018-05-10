@@ -80,3 +80,6 @@ https://doc.lagout.org/programmation/C/
 UML:
 https://www.ibm.com/developerworks/rational/library/content/RationalEdge/sep04/bell/index.html
 
+Books:
+https://it-eb.com/page/3/?s=Embedded
+

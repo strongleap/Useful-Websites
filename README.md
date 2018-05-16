@@ -26,6 +26,7 @@ Java
 
 Python:
 https://www.learnpython.org/
+scikit (image processing) and numpy (numerical)
 
 Regex:
 https://regex101.com/
@@ -79,6 +80,10 @@ https://doc.lagout.org/programmation/C/
 
 UML:
 https://www.ibm.com/developerworks/rational/library/content/RationalEdge/sep04/bell/index.html
+
+Matlab and simulink alternatives:  
+gnu octave 
+http://www.scilab.org/scilab/gallery/xcos 
 
 Books:
 https://it-eb.com/page/3/?s=Embedded

@@ -90,4 +90,4 @@ https://it-eb.com/page/3/?s=Embedded
 
 DO-178B:
 http://aerospacesoftware.typepad.com/aerospace_software/2007/03/how_to_read_do1.html
-
+https://www.researchgate.net/publication/315023556_RTCA_DO-178B_EUROCAE_ED-12B

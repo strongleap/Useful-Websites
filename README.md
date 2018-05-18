@@ -88,3 +88,6 @@ http://www.scilab.org/scilab/gallery/xcos
 Books:
 https://it-eb.com/page/3/?s=Embedded
 
+DO-178B:
+http://aerospacesoftware.typepad.com/aerospace_software/2007/03/how_to_read_do1.html
+

@@ -22,7 +22,10 @@ http://101.lv/learn/C++/htm/ch06.htm#Heading2
 https://www.doulos.com/content/training/embedded_cpp.php
 https://www.tutorialspoint.com/cplusplus/cpp_object_oriented.htm
 
-Java
+Java:
+
+C#:
+www.tutorialpoint.com
 
 Python:
 https://www.learnpython.org/

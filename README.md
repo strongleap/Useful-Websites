@@ -10,6 +10,8 @@ http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod
 
 Coding Standards: 
 http://www.tiobe.com/tqi/tqi-demo/
+https://wiki.sei.cmu.edu/confluence/display/c/MISRA+C%3A2012
+https://www.ipa.go.jp/files/000040508.pdf
 
 Electronics:
 
